@@ -10,6 +10,8 @@ export const GlobalStyle = createGlobalStyle`
 
     body, html{
         height: 100%;
+        overflow-x: hidden;
+        background-color: #000000;
     }
     
     img{
