@@ -262,7 +262,7 @@ export const DownloadMenu = styled.div`
   border-bottom: 8px solid #222;
   width: 100%;
   @media (max-width: 550px) {
-    height: 60vh;
+    height: 100%;
     padding: 50px 0;
   }
 
